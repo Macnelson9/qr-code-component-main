@@ -1,1 +1,2 @@
-This is a responsive QR code component.
+Hi, this is the second readme 
+This should be enough?
